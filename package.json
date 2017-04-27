@@ -4,7 +4,8 @@
   "description": "",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
   },
   "repository": {
     "type": "git",
@@ -18,5 +19,8 @@
   "bugs": {
     "url": "https://github.com/creayoon/Baltimore/issues"
   },
-  "homepage": "https://github.com/creayoon/Baltimore#readme"
+  "homepage": "https://github.com/creayoon/Baltimore#readme",
+  "devDependencies": {
+    "webpack": "^2.4.1"
+  }
 }

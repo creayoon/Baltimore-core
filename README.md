@@ -1,5 +1,5 @@
 # Baltimore
-[Demo] (https://welcome-baltimore.herokuapp.com/)
+[Demo](https://welcome-baltimore.herokuapp.com/)
 
 ## How to use
 - ``npm install`` - Install the dependency
